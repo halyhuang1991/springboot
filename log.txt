@@ -1,0 +1,19 @@
+//---------------javaSE
+Eclipse New Java Project/Java Language Support/Java Imports Snippets
+/Language Support for Java(TM) by Red Hat
+
+Ctrl + Shift + P
+java => java new project =>test
+
+//--------------javaEE
+Java Extension Pack,Maven for Java,Spring Boot Extension Pack 
+Ctrl + Shift + P
+java => Spring Initializr (1)=>web =>devTools 和 web
+
+//-------------github
+echo javaEE-springboot >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:halyhuang1991/springboot.git
+git push -u origin master
