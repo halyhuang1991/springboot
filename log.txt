@@ -11,7 +11,7 @@ Ctrl + Shift + P
 java => Spring Initializr (1)=>web =>devTools 和 web
 
 //-------------github
-echo javaEE-springboot >> README.md
+echo "# springboot" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
