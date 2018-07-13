@@ -9,7 +9,12 @@ java => java new project =>test
 Java Extension Pack,Maven for Java,Spring Boot Extension Pack 
 Ctrl + Shift + P
 java => Spring Initializr (1)=>web =>devTools 和 web
-
+remark:pom.xml
+	<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-thymeleaf</artifactId>
+		</dependency>
+		
 //-------------github
 echo "# springboot" >> README.md
 git init
